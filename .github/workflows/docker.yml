@@ -1,7 +1,6 @@
 name: Build Docker Image
 on:
   push:
-  
 env:
   APP_NAME: arozos
   DOCKERHUB_REPO: xuezbot/arozos
